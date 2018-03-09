@@ -286,3 +286,6 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+# Force inclusion of everything under Libraries (including binaries)
+!libraries/**

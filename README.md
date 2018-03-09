@@ -1,2 +1,2 @@
-# comp140_sdl_pong_game
-Base repository for worksheet C
+# comp140_3_sdl_serial
+Boilerplate for session
